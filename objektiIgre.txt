@@ -1,0 +1,1 @@
+[["objektUIgri1", 100, 100, 100, 100, "media/SuceljePlus.png", "objektUIgri"], ["objektUIgri3", 150, 150, 100, 100, "media/SuceljePlus.png", "objektUIgri"], ["objektUIgri2", 200, 200, 100, 100, "media/SuceljePlus.png", "objektUIgri"]]

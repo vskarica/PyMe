@@ -1,0 +1,6 @@
+obj room
+    obj pozadina
+    obj wall
+    obj tiles
+    obj sobject
+        obj icon
