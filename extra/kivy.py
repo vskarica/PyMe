@@ -9,6 +9,7 @@ class MyApp(App):
 
     def build(self):
         return Label(text='Hello world')
+        return Label(text='Hello kivy')
 
 
 if __name__ == '__main__':
